@@ -1,0 +1,4 @@
+baseURL = 'https://CCChamber.github.io/'
+languageCode = 'de-de'
+title = 'Colin stinkt'
+theme = 'hugo-resume'
